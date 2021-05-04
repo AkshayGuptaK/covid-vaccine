@@ -1,5 +1,6 @@
 {
     "districtId": 0,
+    "age": 18,
     "email": {
         "service": "gmail",
         "user": "",

@@ -61,7 +61,7 @@ function getTomorrow() {
 
 function getAvailableCenters(centers) {
   return centers.map(center => {
-    const sessions = center.sessions.filter(session => session.available_capacity > 0 && session.min_age_limit == 45);
+    const sessions = center.sessions.filter(session => session.available_capacity > 0 && session.min_age_limit <= config.age);
     return {...center, sessions};
   })
   .filter(center => center.sessions.length > 0);
