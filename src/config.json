@@ -1,0 +1,9 @@
+{
+    "districtId": 0,
+    "email": {
+        "service": "gmail",
+        "user": "",
+        "password": "",
+        "recipients": ""
+    }
+}
