@@ -1,0 +1,22 @@
+{
+  "name": "covid-vaccine",
+  "version": "1.0.0",
+  "description": "Simple script to check for open COVID-19 vaccination slots in your area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshayGuptaK/covid-vaccine.git"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "AkshayGuptaK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshayGuptaK/covid-vaccine/issues"
+  },
+  "homepage": "https://github.com/AkshayGuptaK/covid-vaccine#readme"
+}
